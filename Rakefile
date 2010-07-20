@@ -5,7 +5,7 @@ require 'spec/rake/spectask'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = "mongo_session_store"
+    gem.name = "Empact-mongo_session_store"
     gem.summary = %Q{Rails session store class implemented for MongoMapper and Mongoid}
     gem.email = "nicolas.merouze@gmail.com"
     gem.homepage = "http://github.com/nmerouze/mongo_session_store"
