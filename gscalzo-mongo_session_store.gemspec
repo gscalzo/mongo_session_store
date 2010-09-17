@@ -4,12 +4,12 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{Empact-mongo_session_store}
-  s.version = "1.1.2"
+  s.name = %q{gscalzo-mongo_session_store}
+  s.version = "1.1.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Nicolas M\303\251rouze", "Tony Pitale", "Chris Brickley"]
-  s.date = %q{2010-07-20}
+  s.date = %q{2010-09-17}
   s.email = %q{nicolas.merouze@gmail.com}
   s.extra_rdoc_files = [
     "README.md"
